@@ -1,4 +1,5 @@
 # NGINX
+![UC-4bbb5ddf-298d-4985-a827-db82c5c4c888](https://github.com/user-attachments/assets/54200afb-a792-49d2-abf9-682791f23592)
 
 NGINX is a popular open-source web server and reverse proxy server. Originally created by Igor Sysoev in 2004, NGINX is known for its high performance, stability, and scalability. It's commonly used as a reverse proxy server to manage incoming traffic, distribute load across multiple servers, and handle tasks like caching and SSL termination.
 
